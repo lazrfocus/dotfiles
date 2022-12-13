@@ -24,7 +24,7 @@ ENABLE_CORRECTION="true"
 
 # Standard plugins can be found in $ZSH/plugins/
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting dirhistory colorize encode64 history-substring-search iterm2 jsontools safe-paste zsh-interactive-cd)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete dirhistory colorize encode64 history-substring-search iterm2 jsontools safe-paste zsh-interactive-cd)
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5'
 
